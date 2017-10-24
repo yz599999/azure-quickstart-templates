@@ -3,19 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "clusterName": {
-            "value": "GEN-UNIQUE"
-        },
-        "clusterLoginUserName": {
-            "value": "GEN-UNIQUE"
-        },
-        "clusterLoginPassword": {
-            "value": "GEN-PASSWORD"
-        },
-        "sshUserName": {
-            "value": "GEN-UNIQUE"
-        },
-        "sshPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "hdi-use-spark-clu1"
         }
     }
 }
