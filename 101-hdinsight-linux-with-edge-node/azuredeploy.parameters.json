@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "clusterName": {
-            "value": "GEN-UNIQUE"
+            "value": "hdi-use-spark-clu1"
         },
         "clusterLoginUserName": {
             "value": "GEN-UNIQUE"
