@@ -64,10 +64,10 @@
     }
   },
   "variables": {
-    "clusterStorageAccountName": "[concat(parameters('clusterName'),'store')]",
+    "clusterStorageAccountName": "sagsusestbigdata",
     "storageAccountType": "Standard_LRS",
     "applicationName": "new-edgenode"
-  },
+  },sagsusestbigdata
   "resources": [
     {
       "type": "Microsoft.Storage/storageAccounts",
