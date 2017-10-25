@@ -4,6 +4,7 @@
   "parameters": {
     "clusterName": {
       "type": "string",
+      "defaultValue": "xyz123",
       "metadata": {
         "description": "The name of the HDInsight cluster to be created. The cluster name must be globally unique."
       }
