@@ -4,6 +4,7 @@
   "parameters": {
     "clusterName": {
       "type": "string",
+      "defaultValue": "hdi-use-spark-clu1",
       "metadata": {
         "description": "The name of the HDInsight cluster to be created. The cluster name must be globally unique."
       }
